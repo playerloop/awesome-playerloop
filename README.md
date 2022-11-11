@@ -12,6 +12,7 @@ A curated list of free SDKs, integrations and scripts for Playerloop - built by 
 ## Custom SDKs
 
 - [Playerloop-python](https://github.com/DaelonSuzuka/playerloop-python) - A Python SDK built by DaelonSuzuka
+- [Playerloop-javascript](https://github.com/MeBadDev/Playerloop-javascript) - A Javascript SDK built by MeBadDev
 
 ## Bonus: Games that use Playerloop
 *This list may not be complete, open a PR or an issue to get your game here!*
